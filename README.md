@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Matthew 👋
 
 <!--
 **mattrothery/mattrothery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on building a portfolio and creating simple notebooks to experiment with different ML methods
+- 🌱 I’m currently learning GAN's, PyTorch and also a bit of web development
+- 👯 I’m looking to collaborate on anything ML related
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love hiking, camping and being outdoors!
