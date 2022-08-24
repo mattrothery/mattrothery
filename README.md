@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on building a portfolio and creating simple notebooks to experiment with different ML methods
-- 🌱 I’m currently learning GAN's, PyTorch and also a bit of web development
+- 🌱 I’m currently learning about Diffusion models, Transformers, and transitioning from Tensorflow to PyTorch
 - 👯 I’m looking to collaborate on anything ML related
 - 🎯 I'm aiming to contribute more to open source projects
 - 😄 Pronouns: he/him
