@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building a portfolio and creating simple notebooks to experiment with different ML methods
-- 🌱 I’m currently learning about the latest advancements in AI such as diffusion models!
-- 👯 I’m looking to collaborate on anything ML related
-- 🎯 I'm aiming to contribute more to open source projects
+- 🔭 I’m a Machine Learning R&D Engineer working mainly in computer vision
+- 🌱 Passionate about learning new ML techniques and methods, and applying to real world problems
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love hiking, camping and being outdoors!
