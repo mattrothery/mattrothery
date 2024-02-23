@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a Machine Learning R&D Engineer working mainly in computer vision
+- 🔭 I’m a Machine Learning R&D Engineer working in CV, NLP and GenAI
 - 🌱 Passionate about learning new ML techniques and methods, and applying to real world problems
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love hiking, camping and being outdoors!
+- ⚡ Fun fact: I love hiking, camping and being outdoors
